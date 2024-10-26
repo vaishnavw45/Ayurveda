@@ -1,15 +1,6 @@
-# Ayurveda Medicine and Doctor Finder App 🌿💼
+# Ayurveda 
 
-Welcome to the future of Ayurvedic healthcare! 🚀
-
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-
-## Authors
-- [Darshi Buddhini](https://github.com/DarshiBuddhini)
-- [Kimuthu Gamage](https://github.com/KimuthuGamage)
-- [Dinithi Mendis](https://github.com/DinithiMendis)
-- [Imesh Pasinda](https://github.com/ImeshPasinda)
-
+Welcome 
 ## Technologies Used
 
 - **Kotlin**: Our app is built using the Kotlin programming language, ensuring a robust and modern codebase.
@@ -20,12 +11,10 @@ Welcome to the future of Ayurvedic healthcare! 🚀
 
 - **Figma**: The user interface of our app was meticulously designed using Figma, ensuring a visually appealing and user-friendly experience.
 
-## Mobile UI - Figma
-![App Preview](https://github.com/ImeshPasinda/Ayurveda/raw/master/UI.png)
 
 ## Introduction
 
-Introducing our innovative Ayurveda Medicine and Doctor Finder app, a seamless digital bridge connecting traditional Ayurvedic practices with modern convenience. Designed to enhance doctor-patient connectivity and accessibility to authentic herbal remedies of Sri Lanka, our app empowers users to effortlessly schedule appointments with specialized Ayurvedic doctors, receive personalized herbal remedy recommendations, and conveniently order genuine herbal products online.
+Introducing our innovative Ayurveda Medicine and Doctor Finder app, a seamless digital bridge connecting traditional Ayurvedic practices with modern convenience. Designed to enhance doctor-patient connectivity and accessibility to authentic herbal remedies of India, our app empowers users to effortlessly schedule appointments with specialized Ayurvedic doctors, receive personalized herbal remedy recommendations, and conveniently order genuine herbal products online.
 
 By gathering user feedback on these features, we aim to refine the app, ensuring it effectively addresses users' needs. Insights from the testing phase will guide us in refining the app's functionality, providing users with a seamless and holistic Ayurvedic healthcare solution.
 
@@ -33,9 +22,7 @@ By gathering user feedback on these features, we aim to refine the app, ensuring
 
 The goal of user research is to identify and verify the requirements of users within this system. This user research will be used to understand what users would say, think, do, and feel while using the system and to verify the user flows previously identified.
 
-### 🌱 Patient (Seeking Ayurveda Treatment for Back Pain)
 
-- **Evaluate treatment effectiveness for back pain relief.**
 - **Assess support for healthy lifestyle management.**
 - **Measure ease of connecting with expert Ayurvedic doctors.**
 - **Test online herbal product purchasing experience.**
